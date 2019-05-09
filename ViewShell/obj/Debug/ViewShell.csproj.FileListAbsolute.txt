@@ -1,0 +1,10 @@
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\ViewShell\obj\Debug\ViewShell.csproj.CoreCompileInputs.cache
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\ViewShell\bin\Debug\ViewShell.exe.config
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\ViewShell\bin\Debug\ViewShell.exe
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\ViewShell\bin\Debug\ViewShell.pdb
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\ViewShell\bin\Debug\CrdModel.dll
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\ViewShell\bin\Debug\CrdModel.pdb
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\ViewShell\obj\Debug\ViewShell.csprojAssemblyReference.cache
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\ViewShell\obj\Debug\ViewShell.csproj.CopyComplete
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\ViewShell\obj\Debug\ViewShell.exe
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\ViewShell\obj\Debug\ViewShell.pdb

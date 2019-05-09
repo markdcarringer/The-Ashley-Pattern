@@ -1,0 +1,6 @@
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\CrdModel\obj\Debug\CrdModel.csprojAssemblyReference.cache
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\CrdModel\obj\Debug\CrdModel.csproj.CoreCompileInputs.cache
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\CrdModel\bin\Debug\CrdModel.dll
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\CrdModel\bin\Debug\CrdModel.pdb
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\CrdModel\obj\Debug\CrdModel.dll
+C:\Users\carringerma\Documents\Visual Studio 2017\Projects\The-Ashley-Pattern\CrdModel\obj\Debug\CrdModel.pdb
